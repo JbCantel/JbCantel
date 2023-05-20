@@ -1,8 +1,8 @@
 ### Olá, me chamo João. 👋
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev3dison@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaobcantel10@gmail.com)
 
-![Edison  GitHub stats](https://github-readme-stats.vercel.app/api?username=JbCantel&show_icons=true&theme=great-gatsby)
+![JbCantel  GitHub stats](https://github-readme-stats.vercel.app/api?username=JbCantel&show_icons=true&theme=great-gatsby)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
@@ -14,6 +14,6 @@
 
 </div><br/>
 
-![Dev-Edison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Edison&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+![JbCantel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JbCantel&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
  ![snake gif](https://github.com/victordamico/victordamico/blob/output/github-contribution-grid-snake.svg)
