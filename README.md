@@ -21,12 +21,12 @@
 
 <h2></h2>
 
-![JbCantel  GitHub stats](https://github-readme-stats.vercel.app/api?username=JbCantel&show_icons=true&theme=great-gatsby)
+![JbCantel  GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JbCantel&show_icons=true&theme=great-gatsby)
 
 
 
 </div><br/>
 
-![JbCantel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JbCantel&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+![JbCantel's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JbCantel&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
 
