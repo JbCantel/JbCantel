@@ -1,32 +1,69 @@
-### Olá, me chamo João. 👋
+João Augusto
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaobcantel10@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jo%C3%A3o-cantel-930a7627b/)
+Web Designer e Desenvolvedor Web
 
+Desenvolvo sites institucionais, landing pages e interfaces responsivas. Meu trabalho combina WordPress e Elementor com desenvolvimento front-end e ferramentas de inteligência artificial aplicadas ao processo de criação.
 
-<h3>Learning:</h3>
-<div style="display: inline_block; margin_bottom: 20px; background_color: purpple;"><br>
-  <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Jhon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhon-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jhon-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Jhon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Jhon-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Jhon-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Jhon-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
+Atuação
 
-  
-</div>
+Criação e manutenção de sites profissionais;
 
-<h2></h2>
+Desenvolvimento de landing pages voltadas para apresentação de serviços e geração de contatos;
 
-![JbCantel  GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JbCantel&show_icons=true&theme=great-gatsby)
+Construção de interfaces com atenção à responsividade, usabilidade e SEO on-page;
 
+Desenvolvimento de projetos em código para ampliar minhas habilidades além do WordPress.
 
+Tecnologias e ferramentas
 
-</div><br/>
+Uso profissional: WordPress, Elementor, HTML, CSS e JavaScript;
 
-![JbCantel's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JbCantel&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+Projetos atuais: React, Vite, IndexedDB e Git/GitHub;
 
+Conhecimentos aplicados: UI/UX, responsividade, SEO, consumo de APIs e desenvolvimento assistido por IA.
 
+Projetos em destaque
+
+Projeto
+
+Descrição
+
+Tecnologias
+
+Portfólio
+
+Portfólio profissional para apresentar meus serviços e projetos de desenvolvimento web.
+
+HTML, CSS e JavaScript
+
+Controle Pessoal
+
+Aplicação local para organização de finanças, metas e hábitos, com testes automatizados e persistência de dados no navegador.
+
+React, Vite, IndexedDB, Recharts e Vitest
+
+CCI Santa Helena
+
+Landing page responsiva para apresentação de serviços de cuidado e residência sênior.
+
+HTML e CSS
+
+Em desenvolvimento
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+JavaScript e React;
+
+Git e GitHub;
+
+APIs, back-end e bancos de dados;
+
+arquitetura e organização de projetos front-end;
+
+inteligência artificial aplicada ao desenvolvimento web.
+
+Contato
+
+LinkedIn
+
+E-mail
