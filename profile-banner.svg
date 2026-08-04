@@ -1,0 +1,141 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">João Augusto Cantel — Web Designer e Desenvolvedor Web</title>
+  <desc id="desc">Banner tecnológico animado com terminal, circuitos digitais e partículas luminosas.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="30" y1="20" x2="1170" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.52" stop-color="#071631"/>
+      <stop offset="1" stop-color="#0C1015"/>
+    </linearGradient>
+    <linearGradient id="blueLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00D9FF"/>
+      <stop offset="1" stop-color="#6C63FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nameGradient" x1="505" y1="100" x2="1005" y2="195" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.62" stop-color="#BFEFFF"/>
+      <stop offset="1" stop-color="#7A86FF"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow">
+      <stop stop-color="#00D9FF" stop-opacity="0.46"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#2F70FF" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="terminalClip">
+      <rect x="55" y="58" width="390" height="244" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="23" stroke="#2E63FF" stroke-opacity="0.45" stroke-width="2"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)">
+    <animate attributeName="opacity" values="0.35;0.72;0.35" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="950" cy="105" r="240" fill="url(#cyanGlow)">
+    <animate attributeName="r" values="210;255;210" dur="7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.85;0.5" dur="7s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Circuitos energizados -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 42H142L178 78H302" stroke="#00D9FF" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M840 28H1030L1072 70H1200" stroke="#6C63FF" stroke-opacity="0.34" stroke-width="2"/>
+    <path d="M720 326H930L966 290H1200" stroke="#00D9FF" stroke-opacity="0.28" stroke-width="2"/>
+    <path d="M0 328H170L210 288H370" stroke="#6C63FF" stroke-opacity="0.28" stroke-width="2"/>
+
+    <path d="M0 42H142L178 78H302" stroke="#00D9FF" stroke-width="3" stroke-dasharray="10 180" filter="url(#softGlow)">
+      <animate attributeName="stroke-dashoffset" values="190;0" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M840 28H1030L1072 70H1200" stroke="#7A86FF" stroke-width="3" stroke-dasharray="8 210" filter="url(#softGlow)">
+      <animate attributeName="stroke-dashoffset" values="218;0" dur="3.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M720 326H930L966 290H1200" stroke="#00D9FF" stroke-width="3" stroke-dasharray="10 190" filter="url(#softGlow)">
+      <animate attributeName="stroke-dashoffset" values="200;0" dur="4.1s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Terminal -->
+  <g clip-path="url(#terminalClip)">
+    <rect x="55" y="58" width="390" height="244" rx="18" fill="#070B16" fill-opacity="0.94"/>
+    <rect x="55" y="58" width="390" height="244" rx="18" stroke="#5276FF" stroke-opacity="0.72" stroke-width="2"/>
+    <rect x="55" y="58" width="390" height="40" fill="#10182B"/>
+    <circle cx="82" cy="78" r="5" fill="#FF5F57"/>
+    <circle cx="101" cy="78" r="5" fill="#FEBB2E"/>
+    <circle cx="120" cy="78" r="5" fill="#28C840"/>
+    <text x="147" y="83" fill="#7181A6" font-family="Consolas, monospace" font-size="12">portfolio.tsx</text>
+
+    <g font-family="Consolas, 'Courier New', monospace" font-size="15">
+      <text x="82" y="130" fill="#7181A6">01</text>
+      <text x="116" y="130" fill="#C792EA">const</text>
+      <text x="168" y="130" fill="#82AAFF">profile</text>
+      <text x="229" y="130" fill="#89DDFF"> = </text>
+      <text x="254" y="130" fill="#FFFFFF">{</text>
+
+      <text x="82" y="161" fill="#7181A6">02</text>
+      <text x="132" y="161" fill="#F78C6C">role:</text>
+      <text x="184" y="161" fill="#C3E88D">'Web Designer'</text>
+      <text x="306" y="161" fill="#FFFFFF">,</text>
+
+      <text x="82" y="192" fill="#7181A6">03</text>
+      <text x="132" y="192" fill="#F78C6C">focus:</text>
+      <text x="193" y="192" fill="#C3E88D">'Front-end + IA'</text>
+      <text x="332" y="192" fill="#FFFFFF">,</text>
+
+      <text x="82" y="223" fill="#7181A6">04</text>
+      <text x="132" y="223" fill="#F78C6C">status:</text>
+      <text x="201" y="223" fill="#C3E88D">'Construindo'</text>
+
+      <text x="82" y="254" fill="#7181A6">05</text>
+      <text x="116" y="254" fill="#FFFFFF">}</text>
+      <rect x="132" y="240" width="9" height="18" rx="1" fill="#00D9FF" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x="55" y="96" width="390" height="4" fill="url(#blueLine)" opacity="0.85">
+      <animate attributeName="y" values="96;297;96" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Identidade -->
+  <text x="505" y="108" fill="#00D9FF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="5">HELLO, WORLD — EU SOU</text>
+  <text x="500" y="172" fill="url(#nameGradient)" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="1">JOÃO AUGUSTO</text>
+  <text x="504" y="207" fill="#9AA9C8" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="0.8">Web Designer  •  Desenvolvedor Web</text>
+
+  <rect x="504" y="229" width="152" height="38" rx="19" fill="#0B2442" stroke="#00D9FF" stroke-opacity="0.55"/>
+  <circle cx="526" cy="248" r="5" fill="#32E6A1" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="540" y="253" fill="#CFE9FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">WORDPRESS</text>
+
+  <rect x="668" y="229" width="135" height="38" rx="19" fill="#141A38" stroke="#7A86FF" stroke-opacity="0.58"/>
+  <text x="690" y="253" fill="#D9DDFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">FRONT-END</text>
+
+  <rect x="815" y="229" width="116" height="38" rx="19" fill="#0B2442" stroke="#00D9FF" stroke-opacity="0.55"/>
+  <text x="843" y="253" fill="#CFE9FF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">UI / UX</text>
+
+  <rect x="943" y="229" width="177" height="38" rx="19" fill="#141A38" stroke="#7A86FF" stroke-opacity="0.58"/>
+  <text x="966" y="253" fill="#D9DDFF" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">IA NO PROCESSO</text>
+
+  <rect x="504" y="292" width="616" height="2" fill="url(#blueLine)">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="504" y="320" fill="#66799D" font-family="Consolas, monospace" font-size="13">CRIANDO EXPERIÊNCIAS DIGITAIS • APRENDENDO • EVOLUINDO</text>
+
+  <!-- Nós tecnológicos pulsantes -->
+  <g fill="#00D9FF" filter="url(#softGlow)">
+    <circle cx="1135" cy="112" r="3"><animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/></circle>
+    <circle cx="1094" cy="177" r="3"><animate attributeName="r" values="2;4;2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="474" cy="40" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.8s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
