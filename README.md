@@ -1,6 +1,6 @@
 <div align="center">
 
-
+Olá, eu sou João Augusto Cantel 👋
 
 
 
@@ -20,43 +20,40 @@ Tecnologias e ferramentas
 
 
 
-
-
 </div>
 
-Estudando atualmente: JavaScript, React, Git, GitHub, APIs e arquitetura front-end.
+Em desenvolvimento
+
+
 
 Projetos em destaque
 
-<div align="center">
+Controle IA
 
-<a href="https://github.com/JbCantel/controle-ia">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=controle-ia&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Controle IA">
-</a>
-<a href="https://github.com/JbCantel/portifolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=portifolio&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Portfólio">
-</a>
-<a href="https://github.com/JbCantel/santa-helena-senior">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=santa-helena-senior&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Santa Helena Sênior">
-</a>
+Aplicação para controle financeiro e acompanhamento de hábitos, desenvolvida com JavaScript.
 
-</div>
+JavaScript Aplicação web Persistência local
+
+Portfólio
+
+Projeto de portfólio para apresentar trabalhos e evolução em desenvolvimento web.
+
+HTML CSS JavaScript
+
+Santa Helena Sênior
+
+Landing page criada para apresentar serviços de cuidados e residência sênior.
+
+Landing page Design responsivo Projeto real
 
 Atividade no GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JbCantel&show_icons=true&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF&locale=pt-br" alt="Estatísticas do GitHub de João Augusto Cantel">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JbCantel&layout=compact&theme=github_dark&hide_border=true&title_color=00C2FF&locale=pt-br" alt="Linguagens nos repositórios públicos de João Augusto Cantel">
 
 
 
-</div>
-
-<div align="center">
 
 📍 Rio de Janeiro, Brasil
-
-
 
 </div>
