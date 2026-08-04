@@ -1,62 +1,50 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Banner animado de João Augusto Cantel" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/JbCantel?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-002581?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-cantel-930a7627b/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:joaobcantel10@gmail.com"><img src="https://img.shields.io/badge/CONTATO-0C1015?style=for-the-badge&logo=gmail&logoColor=white" alt="Contato por e-mail" /></a>
+</p>
 
+## Sobre mim
 
+Transformo ideias em **sites institucionais, landing pages e interfaces responsivas**. Trabalho com WordPress e Elementor e também desenvolvo projetos em código para fortalecer meus conhecimentos de front-end.
 
+Meu foco é unir design, usabilidade e tecnologia para construir experiências digitais claras, modernas e funcionais.
 
+## Tecnologias que utilizo
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,git,github,vscode&theme=dark" alt="WordPress, HTML, CSS, JavaScript, Git, GitHub e VS Code" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-101010?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+</p>
 
-Sobre mim
+## Projetos em destaque
 
-Sou Web Designer e Desenvolvedor Web. Trabalho na criação de sites institucionais, landing pages e interfaces responsivas, principalmente com WordPress e Elementor, enquanto aprofundo meus conhecimentos em desenvolvimento front-end.
+| Projeto | O que ele demonstra | Tecnologias |
+| :--- | :--- | :--- |
+| **[Controle Pessoal](https://github.com/JbCantel/controle-ia)** | Aplicação local para organização de finanças, metas e hábitos, com persistência no navegador e testes. | React, Vite, IndexedDB, Recharts e Vitest |
+| **[Portfólio](https://github.com/JbCantel/portifolio)** | Apresentação dos meus serviços e projetos de desenvolvimento web. | HTML, CSS e JavaScript |
+| **[CCI Santa Helena](https://github.com/JbCantel/santa-helena-senior)** | Landing page responsiva criada para apresentar um serviço real. | HTML e CSS |
 
-Gosto de transformar necessidades reais de empresas em experiências digitais modernas, claras e funcionais, unindo design, usabilidade e tecnologia.
+## Em desenvolvimento
 
-Tecnologias e ferramentas
+```text
+JavaScript e React      ███████░░░  aprofundando
+Git e GitHub            ███████░░░  praticando
+APIs e back-end         ████░░░░░░  estudando
+Arquitetura front-end   █████░░░░░  evoluindo
+```
 
-<div align="center">
+> Aprendizado contínuo, projetos reais e evolução sem atalhos.
 
-
-
-
-
-</div>
-
-Estudando atualmente: JavaScript, React, Git, GitHub, APIs e arquitetura front-end.
-
-Projetos em destaque
-
-<div align="center">
-
-<a href="https://github.com/JbCantel/controle-ia">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=controle-ia&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Controle IA">
-</a>
-<a href="https://github.com/JbCantel/portifolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=portifolio&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Portfólio">
-</a>
-<a href="https://github.com/JbCantel/santa-helena-senior">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=santa-helena-senior&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Santa Helena Sênior">
-</a>
-
-</div>
-
-Atividade no GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JbCantel&show_icons=true&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF&locale=pt-br" alt="Estatísticas do GitHub de João Augusto Cantel">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JbCantel&layout=compact&theme=github_dark&hide_border=true&title_color=00C2FF&locale=pt-br" alt="Linguagens nos repositórios públicos de João Augusto Cantel">
-
-
-
-</div>
-
-<div align="center">
-
-📍 Rio de Janeiro, Brasil
-
-
-
-</div>
+<p align="center">
+  <sub>Rio de Janeiro, Brasil</sub>
+</p>
