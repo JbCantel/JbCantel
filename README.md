@@ -1,69 +1,62 @@
-João Augusto
+<div align="center">
 
-Web Designer e Desenvolvedor Web
 
-Desenvolvo sites institucionais, landing pages e interfaces responsivas. Meu trabalho combina WordPress e Elementor com desenvolvimento front-end e ferramentas de inteligência artificial aplicadas ao processo de criação.
 
-Atuação
 
-Criação e manutenção de sites profissionais;
 
-Desenvolvimento de landing pages voltadas para apresentação de serviços e geração de contatos;
 
-Construção de interfaces com atenção à responsividade, usabilidade e SEO on-page;
 
-Desenvolvimento de projetos em código para ampliar minhas habilidades além do WordPress.
+</div>
+
+Sobre mim
+
+Sou Web Designer e Desenvolvedor Web. Trabalho na criação de sites institucionais, landing pages e interfaces responsivas, principalmente com WordPress e Elementor, enquanto aprofundo meus conhecimentos em desenvolvimento front-end.
+
+Gosto de transformar necessidades reais de empresas em experiências digitais modernas, claras e funcionais, unindo design, usabilidade e tecnologia.
 
 Tecnologias e ferramentas
 
-Uso profissional: WordPress, Elementor, HTML, CSS e JavaScript;
+<div align="center">
 
-Projetos atuais: React, Vite, IndexedDB e Git/GitHub;
 
-Conhecimentos aplicados: UI/UX, responsividade, SEO, consumo de APIs e desenvolvimento assistido por IA.
+
+
+
+</div>
+
+Estudando atualmente: JavaScript, React, Git, GitHub, APIs e arquitetura front-end.
 
 Projetos em destaque
 
-Projeto
+<div align="center">
 
-Descrição
+<a href="https://github.com/JbCantel/controle-ia">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=controle-ia&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Controle IA">
+</a>
+<a href="https://github.com/JbCantel/portifolio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=portifolio&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Portfólio">
+</a>
+<a href="https://github.com/JbCantel/santa-helena-senior">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JbCantel&repo=santa-helena-senior&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF" alt="Repositório Santa Helena Sênior">
+</a>
 
-Tecnologias
+</div>
 
-Portfólio
+Atividade no GitHub
 
-Portfólio profissional para apresentar meus serviços e projetos de desenvolvimento web.
+<div align="center">
 
-HTML, CSS e JavaScript
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JbCantel&show_icons=true&theme=github_dark&hide_border=true&title_color=00C2FF&icon_color=00C2FF&locale=pt-br" alt="Estatísticas do GitHub de João Augusto Cantel">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JbCantel&layout=compact&theme=github_dark&hide_border=true&title_color=00C2FF&locale=pt-br" alt="Linguagens nos repositórios públicos de João Augusto Cantel">
 
-Controle Pessoal
 
-Aplicação local para organização de finanças, metas e hábitos, com testes automatizados e persistência de dados no navegador.
 
-React, Vite, IndexedDB, Recharts e Vitest
+</div>
 
-CCI Santa Helena
+<div align="center">
 
-Landing page responsiva para apresentação de serviços de cuidado e residência sênior.
+📍 Rio de Janeiro, Brasil
 
-HTML e CSS
 
-Em desenvolvimento
 
-Atualmente estou aprofundando meus conhecimentos em:
-
-JavaScript e React;
-
-Git e GitHub;
-
-APIs, back-end e bancos de dados;
-
-arquitetura e organização de projetos front-end;
-
-inteligência artificial aplicada ao desenvolvimento web.
-
-Contato
-
-LinkedIn
-
-E-mail
+</div>
