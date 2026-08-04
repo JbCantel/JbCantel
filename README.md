@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Banner animado de João Augusto Cantel" />
-</p>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=2F81F7&center=true&vCenter=true&width=800&height=100&lines=Jo%C3%A3o+Augusto+Cantel;Web+Designer+%26+Desenvolvedor+Web;WordPress+%7C+Elementor+%7C+Front-end"
+    alt="Apresentação animada de João Augusto Cantel"
+  />
+</div>
 
 <p align="center">
   <a href="https://github.com/JbCantel?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-002581?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub" /></a>
